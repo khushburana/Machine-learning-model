@@ -2,9 +2,9 @@
 
 COMPANY : CODTECH IT SOLUTIONS
 
-NAME : NIRAJ KUMAR YADAV
+NAME : KHUSHBU KUMARI
 
-INTERN ID : CT04DF2492
+INTERN ID : CT04DF2535
 
 DOMAIN : PYTHON PROGRAMMING
 
@@ -112,6 +112,5 @@ Ensure your dataset file (`spam_dataset_realistic_10000.csv`) is present in the 
 
 ---
 
-## 👨‍💻 Author
 
-Developed by **NIRAJ KUMAR YADAV**
+
